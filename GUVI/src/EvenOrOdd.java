@@ -15,6 +15,9 @@ public class EvenOrOdd {
         if (num % 2 == 0){
             System.out.print("Number is Even");
         }
+        else if (num < 0){
+            System.out.print("Invalid Input");
+        }
         else
             System.out.print("Number is Odds");
     }
