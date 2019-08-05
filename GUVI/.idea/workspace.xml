@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4175e9fe-f5c6-4c8b-8f18-b3ffab52a991" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AlphaorNot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LargestByThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CountDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HelloN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeapHai.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -52,8 +53,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/VolOrNot.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+            <state relative-caret-position="153">
+              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -70,11 +71,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LargestByThree.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LeapHai.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+              <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HelloN.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/CountDigit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -100,6 +128,9 @@
         <option value="$PROJECT_DIR$/src/VolOrNot.java" />
         <option value="$PROJECT_DIR$/src/AlphaorNot.java" />
         <option value="$PROJECT_DIR$/src/LargestByThree.java" />
+        <option value="$PROJECT_DIR$/src/LeapHai.java" />
+        <option value="$PROJECT_DIR$/src/HelloN.java" />
+        <option value="$PROJECT_DIR$/src/CountDigit.java" />
       </list>
     </option>
   </component>
@@ -117,6 +148,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -133,7 +165,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -153,7 +184,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LargestByThree">
+  <component name="RunManager" selected="Application.CountDigit">
     <configuration name="AlphaorNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AlphaorNot" />
       <module name="GUVI" />
@@ -161,15 +192,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckPZN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CheckPZN" />
+    <configuration name="CountDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountDigit" />
       <module name="GUVI" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EvenOrOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EvenOrOdd" />
+    <configuration name="HelloN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloN" />
       <module name="GUVI" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -182,8 +213,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VolOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VolOrNot" />
+    <configuration name="LeapHai" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeapHai" />
       <module name="GUVI" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -191,11 +222,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountDigit" />
+        <item itemvalue="Application.HelloN" />
+        <item itemvalue="Application.LeapHai" />
         <item itemvalue="Application.LargestByThree" />
         <item itemvalue="Application.AlphaorNot" />
-        <item itemvalue="Application.VolOrNot" />
-        <item itemvalue="Application.EvenOrOdd" />
-        <item itemvalue="Application.CheckPZN" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +247,7 @@
     <frame x="-7" y="23" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1295302" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13087249" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -273,8 +304,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/VolOrNot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        <state relative-caret-position="153">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -290,8 +321,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LargestByThree.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeapHai.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HelloN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CountDigit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
         </state>
       </provider>
     </entry>
