@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4175e9fe-f5c6-4c8b-8f18-b3ffab52a991" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/NaturalSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WithoutSameFileName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExponentNGiven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PalidromHai.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,24 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CheckPZN.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/EvenOrOdd.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/VolOrNot.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -102,11 +84,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/NaturalSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+            <state relative-caret-position="425">
+              <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ExponentNGiven.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/PalidromHai.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -137,6 +137,8 @@
         <option value="$PROJECT_DIR$/src/CountDigit.java" />
         <option value="$PROJECT_DIR$/src/WithoutSameFileName.java" />
         <option value="$PROJECT_DIR$/src/NaturalSum.java" />
+        <option value="$PROJECT_DIR$/src/ExponentNGiven.java" />
+        <option value="$PROJECT_DIR$/src/PalidromHai.java" />
       </list>
     </option>
   </component>
@@ -190,7 +192,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NaturalSum">
+  <component name="RunManager" selected="Application.PalidromHai">
     <configuration name="CountDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CountDigit" />
       <module name="GUVI" />
@@ -198,8 +200,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloN" />
+    <configuration name="ExponentNGiven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExponentNGiven" />
       <module name="GUVI" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -212,13 +214,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeapHai" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeapHai" />
-      <module name="GUVI" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="NaturalSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NaturalSum" />
       <module name="GUVI" />
@@ -226,13 +221,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PalidromHai" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PalidromHai" />
+      <module name="GUVI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PalidromHai" />
+        <item itemvalue="Application.ExponentNGiven" />
         <item itemvalue="Application.NaturalSum" />
         <item itemvalue="Application.ItsWork" />
         <item itemvalue="Application.CountDigit" />
-        <item itemvalue="Application.HelloN" />
-        <item itemvalue="Application.LeapHai" />
       </list>
     </recent_temporary>
   </component>
@@ -362,8 +364,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/NaturalSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+        <state relative-caret-position="425">
+          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExponentNGiven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PalidromHai.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
         </state>
       </provider>
     </entry>
