@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4175e9fe-f5c6-4c8b-8f18-b3ffab52a991" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CountDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HelloN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeapHai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NaturalSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WithoutSameFileName.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,19 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/HelloWorld.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-              <folding>
-                <element signature="e#68#69#0" expanded="true" />
-                <element signature="e#115#116#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CheckPZN.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -84,7 +70,7 @@
         <entry file="file://$PROJECT_DIR$/src/LeapHai.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -93,16 +79,34 @@
         <entry file="file://$PROJECT_DIR$/src/HelloN.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-end-line="7" />
+              <caret line="6" column="14" selection-start-line="6" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CountDigit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/WithoutSameFileName.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/CountDigit.java">
+        <entry file="file://$PROJECT_DIR$/src/NaturalSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            <state relative-caret-position="245">
+              <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -131,6 +135,8 @@
         <option value="$PROJECT_DIR$/src/LeapHai.java" />
         <option value="$PROJECT_DIR$/src/HelloN.java" />
         <option value="$PROJECT_DIR$/src/CountDigit.java" />
+        <option value="$PROJECT_DIR$/src/WithoutSameFileName.java" />
+        <option value="$PROJECT_DIR$/src/NaturalSum.java" />
       </list>
     </option>
   </component>
@@ -184,14 +190,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CountDigit">
-    <configuration name="AlphaorNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AlphaorNot" />
-      <module name="GUVI" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.NaturalSum">
     <configuration name="CountDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CountDigit" />
       <module name="GUVI" />
@@ -206,8 +205,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestByThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LargestByThree" />
+    <configuration name="ItsWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ItsWork" />
       <module name="GUVI" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -220,13 +219,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NaturalSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NaturalSum" />
+      <module name="GUVI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NaturalSum" />
+        <item itemvalue="Application.ItsWork" />
         <item itemvalue="Application.CountDigit" />
         <item itemvalue="Application.HelloN" />
         <item itemvalue="Application.LeapHai" />
-        <item itemvalue="Application.LargestByThree" />
-        <item itemvalue="Application.AlphaorNot" />
       </list>
     </recent_temporary>
   </component>
@@ -247,7 +253,7 @@
     <frame x="-7" y="23" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13087249" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13489933" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -329,21 +335,35 @@
     <entry file="file://$PROJECT_DIR$/src/LeapHai.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HelloN.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-end-line="7" />
+          <caret line="6" column="14" selection-start-line="6" selection-end-line="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CountDigit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WithoutSameFileName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NaturalSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
         </state>
       </provider>
     </entry>
