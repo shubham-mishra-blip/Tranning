@@ -1,0 +1,29 @@
+class Datatype2 
+{
+	public static void main(String[] args) 
+	{
+		System.out.println("Casting ...");
+
+		//Implicit Type Casting
+
+		byte b = 24;
+		double d= b;
+		System.out.println(d);
+
+		//Explicit Type Casting
+
+		double e= 34.2;
+		byte a = (byte) e;
+		System.out.println(a);
+
+		//Cyclic Order
+
+		double f = 128.5;
+		byte n = (byte)f;
+		System.out.println(n);
+
+		double k = 129.5;
+		byte m = (byte)k;
+		System.out.println(m);
+	}
+}

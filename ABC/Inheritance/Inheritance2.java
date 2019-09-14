@@ -1,0 +1,53 @@
+//Multi-LEVEL Inheritance Myself
+
+class Boy
+{
+	double amount_boy;
+	Boy(){
+		amount_boy = 2500.50;
+	}
+}
+class Friend extends Boy	
+{
+	double amount_friend = 6000.0;
+	double amount_boy;
+
+	void Take(){
+	System.out.println("Friend: I need Money for my Gf (He want 1000 from boy)");
+	System.out.println("Boy: I have only 2500.How much Do you want!!?");
+	System.out.println("Friend: 1000 only");
+	System.out.println("Boy: Okay take it");
+	amount_boy = super.amount_boy-1000;
+	amount_friend = amount_friend + 1000;
+	System.out.println("Now Boy have only "+ amount_boy+" money and friend have "+amount_friend+" money");
+	}
+}
+
+class FriendGf extends Friend
+{
+	double amount_friend;
+	double friend_gf = 12000.0;
+	
+	void theif(){
+	System.out.println("\n\n\n\n\n NOW, Friend GF Come");
+	System.out.println("GF: Hey Baby :)");
+	System.out.println("GF: I need 7000 money Please :(");
+	System.out.println("Friend: Ok Take it ");
+	System.out.println("GF: Thanks Baby :)");
+	amount_friend = super.amount_friend - super.amount_friend;
+	friend_gf = friend_gf + super.amount_friend;
+	System.out.println("Now Friend have only "+ amount_friend+" money and GF have "+friend_gf+" money");
+	}
+
+}
+
+class Inheritance2 
+{
+	public static void main(String[] args) 
+	{
+		System.out.println("Hello World!");
+		FriendGf gf = new FriendGf();
+		gf.Take();
+		gf.theif();
+	}
+}

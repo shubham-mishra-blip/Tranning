@@ -2,15 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4d12d03-d284-434a-88de-5d27b0e27fae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../GUVI/src/Pattern1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GUVI/src/Pattern2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GUVI/src/Pattern3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GUVI/src/Pattern4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GUVI/src/Pattern5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GUVI/src/Pattern6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GUVI/src/Pattern7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwingAll.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUVI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GUVI/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Basic/src/Adv1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Basic/src/AdvForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Basic/src/Array1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Basic/src/Array2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Basic/src/Array3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Basic/src/Array4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Basic/src/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Basic/src/HashMap1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Basic/src/Pattern14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Basic/src/PrintWithoutSemiColon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Basic/src/ShutDownHook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Basic/src/String1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Basic/src/String2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Basic/src/String3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Basic/src/String4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Basic/src/String5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DublicateStringFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DublicateStringFinder2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringAnagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Basic/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -34,15 +45,54 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SwingAll.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+            <state relative-caret-position="238">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="e#62#63#0" expanded="true" />
                 <element signature="e#88#89#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DublicateStringFinder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="517">
+              <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DublicateStringFinder2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="25" lean-forward="true" selection-start-column="25" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/StringAnagram.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-131">
+              <caret line="37" column="53" lean-forward="true" selection-start-line="37" selection-start-column="53" selection-end-line="37" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DublicateStringFinder1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -67,6 +117,10 @@
         <option value="$PROJECT_DIR$/src/Game.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/SwingAll.java" />
+        <option value="$PROJECT_DIR$/src/DublicateStringFinder1.java" />
+        <option value="$PROJECT_DIR$/src/DublicateStringFinder.java" />
+        <option value="$PROJECT_DIR$/src/DublicateStringFinder2.java" />
+        <option value="$PROJECT_DIR$/src/StringAnagram.java" />
       </list>
     </option>
   </component>
@@ -82,7 +136,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -99,12 +153,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GUVI" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -118,16 +172,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SwingAll">
-    <configuration name="GuesserGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GuesserGame" />
+  <component name="RunManager" selected="Application.StringAnagram">
+    <configuration name="DublicateStringFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DublicateStringFinder" />
       <module name="Simple-Project" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LibraryManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LibraryManagement" />
+    <configuration name="DublicateStringFinder1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DublicateStringFinder1" />
+      <module name="Simple-Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DublicateStringFinder2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DublicateStringFinder2" />
+      <module name="Simple-Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringAnagram" />
       <module name="Simple-Project" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -142,9 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringAnagram" />
+        <item itemvalue="Application.DublicateStringFinder2" />
+        <item itemvalue="Application.DublicateStringFinder" />
+        <item itemvalue="Application.DublicateStringFinder1" />
         <item itemvalue="Application.SwingAll" />
-        <item itemvalue="Application.LibraryManagement" />
-        <item itemvalue="Application.GuesserGame" />
       </list>
     </recent_temporary>
   </component>
@@ -163,8 +233,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="23" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13087249" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13489933" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -197,6 +268,24 @@
     <entry file="file://$PROJECT_DIR$/src/LibraryManagement.java" />
     <entry file="file://$PROJECT_DIR$/src/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/Game.java" />
+    <entry file="file://$PROJECT_DIR$/src/SwingAll.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#62#63#0" expanded="true" />
+            <element signature="e#88#89#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DublicateStringFinder1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/GuesserGame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -204,14 +293,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SwingAll.java">
+    <entry file="file://$PROJECT_DIR$/src/DublicateStringFinder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        <state relative-caret-position="517">
+          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
           <folding>
-            <element signature="e#62#63#0" expanded="true" />
-            <element signature="e#88#89#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DublicateStringFinder2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" lean-forward="true" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StringAnagram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-131">
+          <caret line="37" column="53" lean-forward="true" selection-start-line="37" selection-start-column="53" selection-end-line="37" selection-end-column="53" />
         </state>
       </provider>
     </entry>
