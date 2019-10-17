@@ -2,23 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4175e9fe-f5c6-4c8b-8f18-b3ffab52a991" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Adv1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdvForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HashMap1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrintWithoutSemiColon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShutDownHook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ABC/4. Array/Array1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ABC/4. Array/Array1.java.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ABC/4. Array/Array2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ABC/4. Array/Array2.java.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ABC/4. Array/Array3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ABC/4. Array/Array3.java.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConstBasic.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,24 +25,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Adv1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/String1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/String2.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -86,14 +61,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/HashMap1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="33" lean-forward="true" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-              <folding>
-                <element signature="e#220#237#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="289">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ProArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -103,10 +84,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
-              <folding>
-                <element signature="e#120#233#0" expanded="true" />
-                <element signature="e#232#233#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -139,7 +116,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -191,6 +168,7 @@
         <option value="$PROJECT_DIR$/src/String4.java" />
         <option value="$PROJECT_DIR$/src/String5.java" />
         <option value="$PROJECT_DIR$/src/HashMap1.java" />
+        <option value="$PROJECT_DIR$/src/ProArray.java" />
       </list>
     </option>
   </component>
@@ -208,8 +186,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -226,11 +202,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Simple-Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -244,7 +223,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HashMap1">
+  <component name="RunManager" selected="Application.ProArray">
     <configuration name="HashMap1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HashMap1" />
       <module name="GUVI" />
@@ -252,8 +231,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String2" />
+    <configuration name="ProArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProArray" />
       <module name="GUVI" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -282,11 +261,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProArray" />
         <item itemvalue="Application.HashMap1" />
         <item itemvalue="Application.String5" />
         <item itemvalue="Application.String4" />
         <item itemvalue="Application.String3" />
-        <item itemvalue="Application.String2" />
       </list>
     </recent_temporary>
   </component>
@@ -306,7 +285,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="23" width="1550" height="848" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15838926" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1624161" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -315,7 +294,7 @@
       <window_info id="Learn" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32960895" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.26396647" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -615,6 +594,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConstBasic.java" />
     <entry file="file://$PROJECT_DIR$/src/String2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -636,14 +616,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/String5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HashMap1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ShutDownHook.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
-          <folding>
-            <element signature="e#120#233#0" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -661,20 +651,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/String5.java">
+    <entry file="file://$PROJECT_DIR$/src/ProArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HashMap1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="33" lean-forward="true" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-          <folding>
-            <element signature="e#220#237#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
