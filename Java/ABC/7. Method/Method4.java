@@ -12,4 +12,4 @@ class Method4
 		System.out.println(op
 			);
 	}
-}
+}"

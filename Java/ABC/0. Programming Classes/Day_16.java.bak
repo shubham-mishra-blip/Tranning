@@ -1,0 +1,116 @@
+//***NOTE - Recursion uses Stack Data Structure  (FILO)***
+//whenever function calls one stack frame will be created
+
+
+class Day_16 
+{
+
+
+	static void print(int i) {
+		/*if (i <=10)
+		{
+			System.out.println(i);
+	    }
+			i++;
+			print(i);     [o/p] - Exception in thread "main" java.lang.StackOverflowError bcoz calling method i.e print(i) is not in if condition called as Recursion.
+			                      [Calling a function itself again and again called as recursion.]
+		*/
+		if (i <=10)
+		{
+			System.out.println(i);
+		
+			i++;
+			print(i);
+		}
+		
+	}
+
+
+	static void printRev(int i){
+	if (i >= 0)
+	{
+		System.out.println(i);
+		i --;
+		printRev(i);
+	}
+	}
+
+
+
+	static void printStrRev(int i, String a){
+		
+		if (i >= 0)
+		{
+			System.out.print(a.charAt(i));
+			i --;
+			printStrRev(i,a);
+		}
+		System.out.println();
+	
+	}
+		/*static void printStrRevWithoutS(int i){
+		
+		if (i >= 0)
+		{
+			System.out.print(s1.charAt(i));
+			i --;
+			printStrRev(i);
+		}
+		System.out.println();
+	
+	}*/
+
+	static int fact(int a){
+		if (a == 0)
+		{
+			return 1;
+		}
+		else{
+			return a * fact(a-1);
+		}
+	}
+
+
+	public static void main(String[] args) 
+	{
+
+		/*
+
+		WAP to create loop without using looping method
+
+		*/
+		print(0);
+		System.out.println("-------------------------------");
+		
+		/*
+
+		WAP to print a number from 10 to 0
+
+		*/
+		printRev(10);
+		System.out.println("-------------------------------");
+		/*
+
+		WAP to reverse the given input string using recursion
+
+		*/
+		String s = "Banana";
+		printStrRev(s.length()-1, s);
+		//Using s as a static we cant need to pass s parameter in printStrRev
+		//eg. 
+		//static String s1 = "Apple";
+		//printStrRevWithoutS(s1.length()-1);
+
+        
+		/*
+
+		WAP to factorial of given number using recursion
+
+		*/
+		int n = 6;
+		int fac = fact(n);
+		System.out.println(fac);
+
+
+	}
+}
