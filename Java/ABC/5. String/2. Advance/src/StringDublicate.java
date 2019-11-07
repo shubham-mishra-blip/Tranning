@@ -2,8 +2,24 @@
 *
 * Find Dublicate String from given String.
 * */
-
 import java.util.Scanner;
+
+class DublicateChecker{
+    void checking(String s1){
+        int n = s1.length();     //5
+        char[] ar = s1.toCharArray();  //[H,E,L,L,O]
+        int count = 1;
+        for (int i = 0; i < ar.length; i ++){
+            for (int j = i+1; j < ar.length; j ++){
+                if (ar[i] == ar[j]){
+                    count ++;
+                }
+            }
+            System.out.println(ar[i]+" = "+ count);
+            count = 1;
+        }
+    }
+}
 
 public class StringDublicate {
     public static void main(String[] args) {
@@ -23,6 +39,7 @@ public class StringDublicate {
         }
 
         //2nd Way
-
+        DublicateChecker dublicateChecker = new DublicateChecker();
+        dublicateChecker.checking(s);
     }
 }
