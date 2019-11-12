@@ -10,6 +10,8 @@ class Day_23
 		int[][] ar = {{1,2,3},{4,5,6},{7,8,9}};
 		int[][] ar1 = new int[3][3];
 		int[][] ar2 = new int[3][3];
+
+
 		for (int i = 0; i < ar.length; i ++)
 		{
 			int k =2;                                 //NOTED
@@ -54,7 +56,7 @@ class Day_23
 
 		/**
 		
-		2. WAP to transpose 2-d matrix
+		3. WAP to transpose 2-d matrix
 		
 		*/
 		int[][] ar3 = new int[3][3];
@@ -76,6 +78,14 @@ class Day_23
 			}
 			System.out.println();
 		}
+
+
+		/**
+		
+		4. WAP to merge the 2 given array
+		
+		*/
+
 	}
 }
                                                                                                                                                                                                                                                                                                                                                                                                                                                     
