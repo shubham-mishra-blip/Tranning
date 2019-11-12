@@ -10,38 +10,55 @@
 *       o/p - 598
 * */
 
+import java.util.Scanner;
+
 public class FindSmallerNumber {
-    static int smallestNum(int num){
-        String s = String.valueOf(num);
-        int n = s.length();
-        //Store each number in array
-        char[] s1 = s.toCharArray();
-        System.out.println(n);
-        for (int i = num; i > 0; i --) {
-            String s3 = String.valueOf(i);
-            char[] c2 = s3.toCharArray();
-            for (int m = 0; m < c2.length; m++) {
-                for (int p = m+1; p < c2.length; p ++)
-                if (c2[m] != s1[p]) {
-                    String s2 = String.valueOf(i);
-                    char[] c1 = s2.toCharArray();
-                    for (int j = 0; j < c1.length; j++) {
-                        for (int l = j + 1; l < c1.length; l++) {
-                            if (c1[j] != c1[l]) {
-                                System.out.println(i);
-                                return i;
-                            }
-                        }
-                    }
+    static boolean matching(String a, String b){
+        for (int i = 0; i < a.length(); i ++){
+            for (int j = 0; j < a.length(); j ++) {
+                if (a.charAt(i) == b.charAt(j)) {
+                    return false;
                 }
             }
         }
-    return -1;
+        return true;
+    }
+
+    static boolean selfCheck(String s2){
+        for (int i = 0; i < s2.length(); i ++){
+            for (int j = i+1; j < s2.length(); j ++) {
+                if (s2.charAt(i) == s2.charAt(j)) {
+                    return false;
+                }
+            }
+        }
+        return true;
+    }
+    static void smallestNum(int num){
+        String s = String.valueOf(num);
+        System.out.println(s);
+        for (int i = num-1; i >= 0; i --){
+            String s1 = String.valueOf(i);
+            boolean c;
+            boolean b =  matching(s,s1);
+
+            if(b == true) {
+                c = selfCheck(s1);
+                if(c == true){
+                    System.out.println(s1);
+                    System.exit(0);
+                }
+            }
+
+
+        }
     }
     public static void main(String[] args) {
-        int num1 = 5921;
+        Scanner scan = new Scanner(System.in);
+        System.out.println("Enter Number");
+        int num1 = scan.nextInt();
 
-       int ll = smallestNum(num1);
-        System.out.println(ll);
+     smallestNum(num1);
+
     }
 }
