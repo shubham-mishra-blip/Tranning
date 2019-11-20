@@ -1,0 +1,21 @@
+import java.io.*;
+import java.net.*;
+import java.util.*;
+
+class TestAndDelete 
+{
+	public static void main(String[] args) throws Exception 
+	{
+		ServerSocket listern = new ServerSocket(3000);
+
+		Socket ssoc = listern.accept();
+
+		InputStream is = ssoc.getInputStream();
+
+		DataInputStream dis = new DataInputStream(is);
+
+		String msg = dis.readUTF();
+
+		System.out.println(msg);
+	}
+}

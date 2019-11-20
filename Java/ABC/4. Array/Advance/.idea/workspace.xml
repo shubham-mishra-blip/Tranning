@@ -2,28 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa5cd1de-b281-4910-a67a-579c3530d245" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Detect_Pangram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Detectpangram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FIrst_Repeat_Num_in_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FindUnrepeatedNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Find_Common_Element_in_3_SortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Find_Top_2_No.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HackerRankScope.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProArray.java.bak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProArray1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProArray1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProArray1.java.bak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProArray2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProArray2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProArray2.java.bak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProArray3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProArray3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProArray3.java.bak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProArray4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProArray4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProArray4.java.bak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProArray5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProArray5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProArray5.java.bak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProArray6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProArray6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7. Method/MethodOverloading1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../7. Method/MethodOverloading1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7. Method/MethodOverloading1.java.bak" beforeDir="false" afterPath="$PROJECT_DIR$/../../7. Method/MethodOverloading1.java.bak" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -122,7 +102,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Detectpangram.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
+            <state relative-caret-position="416">
               <caret line="66" column="27" selection-start-line="66" selection-start-column="27" selection-end-line="66" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -280,7 +260,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="23" width="1550" height="848" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26845637" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27248323" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -398,7 +378,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Detectpangram.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
+        <state relative-caret-position="416">
           <caret line="66" column="27" selection-start-line="66" selection-start-column="27" selection-end-line="66" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
