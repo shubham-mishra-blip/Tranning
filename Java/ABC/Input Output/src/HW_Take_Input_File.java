@@ -12,9 +12,7 @@ public class HW_Take_Input_File {
 
         int temp;
 
-        while ((temp = fis.read()) != -1){
-            num = temp;
-        }
+        num = fis.read();
 
         System.out.println((char) num);
     }
