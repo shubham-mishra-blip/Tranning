@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4d12d03-d284-434a-88de-5d27b0e27fae" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ABC/Input Output/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ABC/Input Output/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ABC/Input Output/src/TestNow.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FindSmallerNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FindSmallerNumber.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,15 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GuesserGame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SwingAll.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -93,22 +85,31 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FindSmallerNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+            <state relative-caret-position="34">
+              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Merge1DArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
               <folding>
-                <element signature="e#0#1453#0" expanded="true" />
+                <element signature="docComment;class#Merge1DArray#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Merge1DArray.java">
+        <entry file="file://$PROJECT_DIR$/src/Encrypt_This.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="40" column="35" lean-forward="true" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+            <state relative-caret-position="323">
+              <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
               <folding>
-                <element signature="docComment;class#Merge1DArray#0" />
+                <element signature="e#0#128#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -151,6 +152,7 @@
         <option value="$PROJECT_DIR$/src/DublicateStringFinder3.java" />
         <option value="$PROJECT_DIR$/src/FindSmallerNumber.java" />
         <option value="$PROJECT_DIR$/src/Merge1DArray.java" />
+        <option value="$PROJECT_DIR$/src/Encrypt_This.java" />
       </list>
     </option>
   </component>
@@ -169,6 +171,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -185,12 +188,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ABC" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
@@ -205,7 +207,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Merge1DArray">
+  <component name="RunManager" selected="Application.Encrypt_This">
     <configuration name="DublicateStringFinder1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DublicateStringFinder1" />
       <module name="Simple-Project" />
@@ -215,6 +217,13 @@
     </configuration>
     <configuration name="DublicateStringFinder3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DublicateStringFinder3" />
+      <module name="Simple-Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Encrypt_This" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Encrypt_This" />
       <module name="Simple-Project" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -234,20 +243,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringAnagram" />
-      <module name="Simple-Project" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Encrypt_This" />
         <item itemvalue="Application.Merge1DArray" />
         <item itemvalue="Application.FindSmallerNumber" />
         <item itemvalue="Application.DublicateStringFinder3" />
         <item itemvalue="Application.DublicateStringFinder1" />
-        <item itemvalue="Application.StringAnagram" />
       </list>
     </recent_temporary>
   </component>
@@ -267,7 +269,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="23" width="1550" height="848" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14697987" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14899328" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -359,6 +361,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/FindSmallerNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ReverseLongString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
@@ -366,22 +375,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FindSmallerNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/Merge1DArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        <state relative-caret-position="226">
+          <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
           <folding>
-            <element signature="e#0#1453#0" expanded="true" />
+            <element signature="docComment;class#Merge1DArray#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Merge1DArray.java">
+    <entry file="file://$PROJECT_DIR$/src/Encrypt_This.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="40" column="35" lean-forward="true" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+        <state relative-caret-position="323">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
           <folding>
-            <element signature="docComment;class#Merge1DArray#0" />
+            <element signature="e#0#128#0" expanded="true" />
           </folding>
         </state>
       </provider>
