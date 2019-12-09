@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Servlet5_Myself_TakeInputAndStoreOnDatabase">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="Servlet5_Myself_TakeInputAndStoreOnDatabase"/>
+        <property name="java-output-path" value="/Servlet5_Myself_TakeInputAndStoreOnDatabase/build/classes"/>
+    </wb-module>
+</project-modules>
